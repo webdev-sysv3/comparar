@@ -1,0 +1,2 @@
+# comparar
+exemplo plugin comparar
